@@ -1,7 +1,8 @@
 
-.viajes{
+.comidas{
     align-items: center;
     text-align: center;
+    padding: 2rem;
 }
 
 body{
@@ -22,6 +23,7 @@ body{
     margin: 20px auto;
     z-index: 1;
     display:inline-block;}
+
 li{
     display: inline-block;
     text-align: center;
@@ -38,11 +40,13 @@ a{
 .nav-item:hover{
         transform: scale(1,02);
         border-radius: 100%;}
+
 .speech{
     font-family: 'Alfa Slab One', cursive;
     color: beige;
     margin-left: 2rem;
     padding: 2rem;}
+
 .pedir{
 color: white;
 text-align: center;
